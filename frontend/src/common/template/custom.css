@@ -1,0 +1,17 @@
+.navbar-static-top{
+    background: #367fa9
+}
+
+.main-footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+button{
+    margin-left: 5px
+}
+
+.table-actions{
+    width: 150px
+}
